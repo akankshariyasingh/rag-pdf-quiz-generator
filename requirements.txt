@@ -1,0 +1,8 @@
+
+streamlit
+chromadb
+pymupdf
+langchain-text-splitters
+google-genai
+python-dotenv
+requests
